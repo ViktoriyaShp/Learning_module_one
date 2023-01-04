@@ -1,0 +1,28 @@
+.title-two {
+    color:black;
+    font-size: 50px;
+    text-align: center;
+}
+
+.article > h3, .article > .article__poster {
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.text-justify { 
+    text-align: justify;
+    text-align-last: center;
+    font-size: 20px;
+
+}
+
+.logo {
+    position: absolute;
+    top: 160px;
+}
+
+.list > li:nth-child(2n) {
+    position: relative;
+    left: 100px;
+}
